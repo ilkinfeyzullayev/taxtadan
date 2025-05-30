@@ -1,0 +1,265 @@
+.box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1690px;
+  height: 535px;
+  background-color: rgb(163, 163, 128);
+  z-index: -1;
+}
+
+.taxtadan {
+  position: relative;
+  left: 150px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 35px;
+  z-index: 0;
+}
+
+.couch1 {
+  height: 510px;
+  width: 700px;
+  position: relative;
+  left: 675px;
+  bottom: 400px;
+  z-index: 0;
+}
+
+.welcome {
+  position: relative;
+  left: 150px;
+  bottom: 60px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 80px;
+  z-index: 0;
+}
+
+.dots {
+  position: relative;
+  left: 425px;
+  bottom: 600px;
+  height: 300px;
+  width: 300px;
+  opacity: 0.4;
+  z-index: -1;
+}
+
+.shopNow {
+  position: relative;
+  right: 855px;
+  bottom: 575px;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(214, 206, 147);
+  color: black;
+  font-family: "fontInter", sans-serif;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.shopNow:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+
+.explore1 {
+  position: relative;
+  right: 845px;
+  bottom: 575px;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(163, 163, 128);
+  color: black;
+  border-width: 2px;
+  border-color: rgb(190, 190, 165);
+  font-family: "fontInter", sans-serif;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.explore1:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+
+.home {
+  position: relative;
+  left: 760px;
+  bottom: 955px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 17px;
+  z-index: 0;
+}
+
+.box2 {
+  position: absolute;
+  top: 68px;
+  left: 768px;
+  width: 45px;
+  height: 5px;
+  background-color: #efebce;
+  z-index: 0;
+}
+
+.aboutUs {
+  position: relative;
+  left: 855px;
+  bottom: 992px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 17px;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+.services {
+  position: relative;
+  left: 970px;
+  bottom: 1029px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 17px;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+.blog {
+  position: relative;
+  left: 1080px;
+  bottom: 1066px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 17px;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+.contactUs {
+  position: relative;
+  left: 1165px;
+  bottom: 1103px;
+  color: white;
+  font-family: "fontInter", sans-serif;
+  font-size: 17px;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+.user {
+  position: relative;
+  bottom: 1185px;
+  left: 1330px;
+}
+
+.cart {
+  position: relative;
+  bottom: 1185px;
+  left: 1345px;
+}
+
+.craft1 {
+  position: relative;
+  left: 150px;
+  bottom: 675px;
+  color: #3b5d50;
+  font-family: "fontInter", sans-serif;
+  font-size: 50px;
+  z-index: 0;
+}
+
+.craft2 {
+  position: relative;
+  left: 150px;
+  bottom: 750px;
+  color: #6a6a6a;
+  font-family: "fontInter", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  z-index: 0;
+}
+
+.explore2 {
+  position: relative;
+  left: 150px;
+  bottom: 975px;
+  width: 125px;
+  height: 50px;
+  background-color: #a3a380;
+  color: white;
+  border-color: #a3a380;
+  font-family: "fontInter", sans-serif;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.explore2:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+
+.couch2 {
+  position: relative;
+  left: 482px;
+  bottom: 1033px;
+}
+
+.couch2:hover {
+  position: relative;
+  bottom: 1085px;
+  transition: all 0.3s;
+}
+
+.couch2:not(:hover) {
+  position: relative;
+  bottom: 1033px;
+  transition: all 0.3s;
+}
+
+.couch3 {
+  position: relative;
+  left: 582px;
+  bottom: 1033px;
+}
+
+.couch3:hover {
+  position: relative;
+  bottom: 1085px;
+  transition: all 0.3s;
+}
+
+.couch3:not(:hover) {
+  position: relative;
+  bottom: 1033px;
+  transition: all 0.3s;
+}
+
+.couch4 {
+  position: relative;
+  left: 682px;
+  bottom: 1033px;
+}
+
+.couch4:hover {
+  position: relative;
+  bottom: 1085px;
+  transition: all 0.3s;
+}
+
+.couch4:not(:hover) {
+  position: relative;
+  bottom: 1033px;
+  transition: all 0.3s;
+}
+
+.box3 {
+  opacity: 0;
+}
